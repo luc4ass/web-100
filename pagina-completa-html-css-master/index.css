@@ -152,6 +152,7 @@ header a:hover{
 }
 
 #hero{
+    font-family: 'Luckiest Guy', cursive;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -170,6 +171,7 @@ header a:hover{
 }
 
 #hero h1{
+    font-family: 'Luckiest Guy', cursive;
     color: white;
 }
 #hero1 h1{
@@ -187,32 +189,32 @@ header a:hover{
     font-size: 1.75em;s
 }
 
-#my .container{
+#somos-proya .container{
     text-align: center;
     padding: 200px 12px;
 }
 
-#discord {
+#nuestros-programas{
     background-color: rgb(30,30,30);
     color: white;
     text-align: center;
 }
 
 
-#discord .container{
+#nuestros-programas .container{
     padding: 150px 12px;
 }
 
-#discord h2{
+#nuestros-programas h2{
     margin-top: 0;
     font-size: 3.2em;
 }
 
-#discord p{
+#nuestros-programas p{
     display: none;
 }
 
-#discord .carta{
+#nuestros-programas .carta{
     background-position: center center;
     background-size: cover;
     padding: 50px 0px;
@@ -335,12 +337,12 @@ footer .container{
         font-size: 5em;
     }
 
-    #my .container{
+    #somos-proya .container{
         display: flex;
         justify-content: space-evenly;
     }
 
-    #my .texto{
+    #somos-proya .texto{
         width: 50%;
         max-width: 600px;
         text-align: initial;
@@ -350,11 +352,11 @@ footer .container{
         justify-content: center;
     }
 
-    #my h2{
+    #somos-proya h2{
         margin-top: 0px;
     }
 
-    #my .img-container{
+    #somos-proya .img-container{
 
 
         background-image: url("media/somos-proya.jpg");
@@ -364,25 +366,25 @@ footer .container{
         width: 400px; 
     }
 
-    #discord .programas{
+    #nuestros-programas .programas{
         display: flex;
         justify-content: center;
     }
 
-    #discord p{
+    #nuestros-programas p{
         display: block;
         margin-bottom: 30px;
     }
 
-    #discord h2{
+    #nuestros-programas h2{
         font-size: 4em;
     }
 
-    #discord h3{
+    #nuestros-programas h3{
         margin-top: 0;
     }
 
-    #discord .carta{
+    #nuestros-programas .carta{
         padding: 50px;
         background-size: 100% 260px;
         background-repeat: no-repeat;
@@ -470,7 +472,7 @@ footer .container{
 
 
 
-#planes{
+#nuestros-programas1{
     background-image: url("https://st.depositphotos.com/2850099/4223/i/950/depositphotos_42230327-stock-photo-concrete-wall-texture.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -480,20 +482,20 @@ footer .container{
 }
 
 
-#planes .container{
+#nuestros-programas1 .container{
     padding: 150px 12px;
 }
 
-#planes h2{
+#nuestros-programas1 h2{
     margin-top: 0;
     font-size: 3.2em;
 }
 
-#planes p{
+#nuestros-programas1 p{
     display: none;
 }
 
-#planes .carta7{
+#nuestros-programas1 .carta7{
     background-position: center center;
     background-size: cover;
     padding: 80px 0px;
@@ -504,25 +506,25 @@ footer .container{
 
 
 
-#planes .programas{
+#nuestros-programas1 .programas{
     display: flex;
     justify-content: center;
 }
 
-#p1anes p{
+#nuestros-programas1 p{
     display: block;
     margin-bottom: 30px;
 }
 
-#planes h2{
+#nuestros-programas1 h2{
     font-size: 4em;
 }
 
-#planes h3{
+#nuestros-programas1 h3{
     margin-top: 0;
 }
 
-#planes .carta7{
+#nuestros-programas1 .carta7{
     padding: 50px;
     background-size: 100% 260px;
     background-repeat: no-repeat;
