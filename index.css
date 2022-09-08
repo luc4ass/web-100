@@ -359,6 +359,7 @@ footer .container{
 
         background-image: url("media/somos-proy.jpg");
         background-size: cover;
+        border-radius: 20px;
         background-position: center center;
         height: 500px;
         width: 400px; 
