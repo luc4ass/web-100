@@ -40,6 +40,11 @@ p{ font-size: 1.25em;}
 ul{ list-style: none;}
 li{ font-size: 1.25em;}
 
+#lc {
+     font-family: 'Rock Salt', cursive;
+    
+    ]
+
 #i {
    /*background-color: DodgerBlue; /* Blue background */
    color: rgb(0, 0, 0);
@@ -107,7 +112,6 @@ header .logo{
     font-weight: bold;
     color: rgb(43, 150, 226);
     font-size: 1.6em;
-     font-family: 'Rock Salt', cursive;
     
 }
 header .logo:hover{
